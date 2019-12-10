@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Portaria
+ * @author Cleversoneo
  */
 public class Exer06 {
     
