@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Cleverson
+ * @author Cleversoneo
  */
 public class Exer10 {
     
